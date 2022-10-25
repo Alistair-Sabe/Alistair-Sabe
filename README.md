@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alistair-Sabe
 - 👀 I’m interested in ...Mobile Application Development
-- 🌱 I’m currently learning ...Kotlin, Jetpack Compose and Java
+- 🌱 I’m currently learning ...Kotlin, Jetpack Compose and Java for Android
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...alistairsabe96@gmail.com
 
