@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Alistair-Sabe
 - 👀 I’m interested in ...Mobile Application Development
-- 🌱 I’m currently learning ...Kotlin, Jetpack Compose and Java for Android
+- 📚 Currently enrolled in a Software Engineering bootcamp with ALX (https://www.alxafrica.com/)
+- 🌱 I’m currently learning ...Kotlin, Jetpack Compose for Android
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...alistairsabe96@gmail.com
 
